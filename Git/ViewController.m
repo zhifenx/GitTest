@@ -22,6 +22,8 @@
     
     self.view.backgroundColor = [UIColor yellowColor];
     //test
+    
+    //mac pro 13
 }
 
 
